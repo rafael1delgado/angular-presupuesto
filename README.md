@@ -1,9 +1,6 @@
-# AngularPresupuestos
+# Angular Presupuesto
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
-
+App para control de Presupuesto y Gastos implementado en Angular.
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-
+Ejecuta `ng serve` y navega en `http://localhost:4200/` para visualizar el proyecto.
